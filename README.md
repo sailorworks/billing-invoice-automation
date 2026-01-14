@@ -140,3 +140,7 @@ Verify your API key is correct in the [Composio Dashboard](https://platform.comp
 1. Verify the URL and API key in your IDE configuration
 2. Restart your IDE after updating the configuration
 3. Check that your Composio API key has the necessary permissions
+   
+### License
+
+This project is under MIT license.
